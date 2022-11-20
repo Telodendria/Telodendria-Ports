@@ -1,6 +1,6 @@
-DISTNAME       = Telodendria-v0.1.0
-MASTER_SITES   = https://telodendria.io/pub/v0.1.0/
-PKGNAME        = telodendria-0.1.0
+DISTNAME       = Telodendria-v0.0.0
+MASTER_SITES   = https://telodendria.io/pub/v0.0.0/
+PKGNAME        = telodendria-0.0.0
 
 CATEGORIES     = net
 COMMENT        = Matrix homeserver implementation written in ANSI C

@@ -8,7 +8,7 @@
 @man man/man8/telodendria.8
 share/examples/telodendria/
 share/examples/telodendria/telodendria.conf
-@sample /etc/telodendria.conf
+@sample ${SYSCONFDIR}/telodendria.conf
 @exec-add mkdir -p /var/telodendria
 @exec-add chown _telodendria:_telodendria /var/telodendria
 @extra /var/telodendria/
