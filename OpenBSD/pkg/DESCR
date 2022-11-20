@@ -1,0 +1,3 @@
+Telodendria is an open source Matrix homeserver implementation
+written in scratch from ANSI C and designed to be lightweight and
+simple, yet functional.

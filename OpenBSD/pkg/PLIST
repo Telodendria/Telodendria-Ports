@@ -1,0 +1,14 @@
+@newgroup _telodendria:886
+@newuser _telodendria:886:886:daemon:telodendria:/nonexistent:/sbin/nologin
+@rcscript ${RCDIR}/telodendria
+@bin bin/telodendria
+@man man/man5/telodendria.conf.5
+@man man/man7/telodendria-contributing.7
+@man man/man7/telodendria.7
+@man man/man8/telodendria.8
+share/examples/telodendria/
+share/examples/telodendria/telodendria.conf
+@sample /etc/telodendria.conf
+@exec-add mkdir -p /var/telodendria
+@exec-add chown _telodendria:_telodendria /var/telodendria
+@extra /var/telodendria/
