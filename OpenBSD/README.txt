@@ -25,9 +25,10 @@ port directory:
 
   1. Update the version information in Makefile
   2. make makesum
-  3. make fake
-  4. make update-plist
-  5. make package
+  3. make
+  4. make fake
+  5. make update-plist
+  6. make package
 
 If everything works, then a diff of the port directory should be submitted to
 the mailing list. Do be sure to look over the diff and make sure everything
