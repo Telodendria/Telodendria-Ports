@@ -1,6 +1,6 @@
 #!/bin/ksh
 
-daemon="${TRUEPREFIX}/bin/telodendria"
+daemon="${TRUEPREFIX}/bin/telodendria -f ${SYSCONFDIR}/telodendria.conf"
 daemon_timeout=5
 
 . /etc/rc.d/rc.subr
