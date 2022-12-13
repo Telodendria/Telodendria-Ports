@@ -3,6 +3,7 @@
 @rcscript ${RCDIR}/telodendria
 @bin bin/telodendria
 @man man/man5/telodendria.conf.5
+@man man/man7/telodendria-changelog.7
 @man man/man7/telodendria-contributing.7
 @man man/man7/telodendria.7
 @man man/man8/telodendria.8
